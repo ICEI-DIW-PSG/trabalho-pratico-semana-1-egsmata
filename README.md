@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Enrico Guilherme Silva da Mata  
+Matricula: 902513
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![alt text](images/print_1.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![trabalho-pratico-semana-1-egsmata/images/print_2.png](images/print_2.png)
 
 
 ## Orientações sobre Linguagem MarkDown
